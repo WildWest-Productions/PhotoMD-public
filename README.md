@@ -6,5 +6,5 @@ Available soon on the App store for MacOS.
 
 ### Example screenshot
 
-![Alt text](/PhotoMD-Screenshot.png?raw=true "ExifViewer Screenshot")
+![Alt text](/PhotoMD-ScreenShot.png?raw=true "ExifViewer Screenshot")
 
