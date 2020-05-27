@@ -1,10 +1,10 @@
-# ExifViewer-public
+# PhotoMD-public
 
-The public repository for ExifViewer (only for support)
+The public repository for PhotoMD (only for support)
 
 Available soon on the App store for MacOS.
 
 ### Example screenshot
 
-![Alt text](/ExifViewerScreenshot.png?raw=true "ExifViewer Screenshot")
+![Alt text](/PhotoMD-Screenshot.png?raw=true "ExifViewer Screenshot")
 
