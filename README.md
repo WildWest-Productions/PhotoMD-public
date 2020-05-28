@@ -10,7 +10,9 @@ Available soon on the App store for MacOS.
 
 ## Privacy Policy
 
-Non of your infomation can be viewed by the owner(s) of this app. No data
-is collected or stored in any way shape or form.
+None of your infomation can be viewed, collected, stored,
+send, or sold by the owner(s) of this app.
 
+None of my code (code I wrote) is designed to collect,
+store, send, or sell any of your infomation.
 
