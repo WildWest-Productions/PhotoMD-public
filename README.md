@@ -8,3 +8,9 @@ Available soon on the App store for MacOS.
 
 ![Alt text](/PhotoMD-ScreenShot.png?raw=true "ExifViewer Screenshot")
 
+## Privacy Policy
+
+Non of your infomation can be viewed by the owner(s) of this app. No data
+is collected or stored in any way shape or form.
+
+
