@@ -1,8 +1,8 @@
 # PhotoMD-public
 
-The public repository for PhotoMD (only for support)
+The public repository for PhotoMD (for support only)
 
-Available soon on the App store for MacOS.
+Available soon on the App Store for MacOS.
 
 ### Example screenshot
 
