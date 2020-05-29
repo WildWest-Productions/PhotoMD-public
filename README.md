@@ -2,7 +2,9 @@
 
 The public repository for PhotoMD (for support only)
 
-Available soon on the App Store for MacOS.
+Available on the [App Store for MacOS](https://apps.apple.com/us/app/photomd/id1515646480?mt=12).
+
+Next update (V1.1.0) is planed from June to July 2020.
 
 ### Example screenshot
 
