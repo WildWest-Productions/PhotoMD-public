@@ -2,7 +2,7 @@
 
 The public repository for PhotoMD (for support only)
 
-Available soon on the App Store for MacOS.
+Available at: https://apps.apple.com/us/app/photomd/id1515646480?mt=12
 
 ### Example screenshot
 
