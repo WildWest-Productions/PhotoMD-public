@@ -9,7 +9,6 @@ subject to change.
 
 ### ADDED
  - Available to edit image metadata
- - Search text field
 
 ### CHANGED
  - Fixed type: `Select a image` -> `Select an image`

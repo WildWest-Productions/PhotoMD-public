@@ -1,0 +1,36 @@
+This is the release description for PhotoMD V1.1.0
+
+View and edit image EXIF and other metadata of an image.
+
+Supported images:
+
+ - JPG/JPEG: Full support
+ - PNG: Full support
+ - TIFF: Full support
+ - HEIC: Mostly supported*
+ - GIF: Read only
+ - NEF: Read only
+ - RW2: Read only
+ - Other RAW or compressed images: Read only
+
+*Lacks the ability to remove all metadata.
+Full support = read and write to metadata.
+
+Before using this app, beware of some of the known issues:
+
+ - Can't erase all metadata from HEIC images
+ - No video support
+ - Can't edit RAW images
+ - Erasing a metadata key with a INT value will not remove the tag, only zeros it
+ - Sometimes can't add "SerialNumber" tags to image
+ - Can't edit arrays, like: "JFIFVersion", "ComponentsConfiguration", "ISOSpeedRatings", or "FlashPixVersion"
+ - Image will always be re-compressed when editing the metadata
+
+Despite of those issues (witch may be fixed in an upcoming update), PhotoMD is an okay alternative to "exiftool" (command-line) for people that like a GUI.
+
+If you need help or request a suggestion, email: photomd.support@nym.hush.com, or open an issue on GitHub: https://github.com/WestleyR/PhotoMD-public.
+
+Latest news on PhotoMD: https://github.com/WestleyR/PhotoMD-public/blob/master/NEWS.md
+
+This description may be outdated, please see: https://github.com/WestleyR/PhotoMD-public/blob/master/RELEASE_DESCRIPTION_V1.1.0.txt for the latest description.
+
