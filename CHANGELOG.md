@@ -5,13 +5,25 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
-## V1.1.0.a1 - May 30, 2020
+## V1.1.0.b4 - Jun 2, 2020
 
 ### ADDED
  - Available to edit image metadata
+ - Added delete selected row, to delete a selected row of data
+ - Always will recompress image when editing
+ - Added image resolution label
+ - Added "Delete all data" button to delete all image metadata
+ - Added warning if trying to edit a unsupported image, eg. RAW images
+ - Added warning if trying to add a tag on a image that does not support it
+ - Added alert prompt to confirm that the user wants to edit the image (when editing data) (only popups one every app bootup)
+ - Added alert prompt if the user wants to delete all image data
+ - Reloads the "Image size label" after editing the image data
+ - Added combo-box to select a data key to add
+ - Added text-field to add a data value
 
 ### CHANGED
  - Fixed type: `Select a image` -> `Select an image`
+ - Main window can no longer be resized
 
 ## V1.0.0 - May 27, 2020
 
