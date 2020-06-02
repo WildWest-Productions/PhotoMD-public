@@ -12,6 +12,8 @@ Next update (V1.1.0) is planed from June to July 2020.
 
 _Version V1.1.0.b2 shown._
 
+See: https://github.com/WestleyR/PhotoMD-public/blob/master/PhotoMD-demo.mov for demo video.
+
 ## Privacy Policy
 
 None of my code (code I wrote) is designed to collect,
