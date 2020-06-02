@@ -1,5 +1,3 @@
-This is the release description for PhotoMD V1.1.0
-
 View and edit image EXIF and other metadata of an image.
 
 Supported images:
@@ -22,7 +20,6 @@ Before using this app, beware of some of the known issues:
  - No video support
  - Can't edit RAW images
  - Erasing a metadata key with a INT value will not remove the tag, only zeros it
- - Sometimes can't add "SerialNumber" tags to image
  - Can't edit arrays, like: "JFIFVersion", "ComponentsConfiguration", "ISOSpeedRatings", or "FlashPixVersion"
  - Image will always be re-compressed when editing the metadata
 
