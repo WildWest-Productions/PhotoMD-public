@@ -29,5 +29,5 @@ If you need help or request a suggestion, email: photomd.support@nym.hush.com, o
 
 Latest news on PhotoMD: https://github.com/WestleyR/PhotoMD-public/blob/master/NEWS.md
 
-This description may be outdated, please see: https://github.com/WestleyR/PhotoMD-public/blob/master/RELEASE_DESCRIPTION_V1.1.0.txt for the latest description.
+This description may be outdated, please see: https://github.com/WestleyR/PhotoMD-public/blob/master/release_descriptions/RELEASE_DESCRIPTION_V1.1.0.txt for the latest description.
 
