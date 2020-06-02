@@ -10,7 +10,7 @@ subject to change.
 ### ADDED
  - Available to edit image metadata
  - Added delete selected row, to delete a selected row of data
- - Always will recompress image when editing
+ - Always will recompress image when editing data
  - Added image resolution label
  - Added "Delete all data" button to delete all image metadata
  - Added warning if trying to edit a unsupported image, eg. RAW images
@@ -20,6 +20,8 @@ subject to change.
  - Reloads the "Image size label" after editing the image data
  - Added combo-box to select a data key to add
  - Added text-field to add a data value
+ - Key, and value text fields are automaticly updated as the user selects rows of data from the table view
+ - Added always-on checkbox to enable re-compressing image when editing data
 
 ### CHANGED
  - Fixed type: `Select a image` -> `Select an image`

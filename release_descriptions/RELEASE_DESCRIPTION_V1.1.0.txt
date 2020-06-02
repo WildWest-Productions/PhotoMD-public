@@ -14,20 +14,24 @@ Supported images:
 *Lacks the ability to remove all metadata.
 Full support = read and write to metadata.
 
-Before using this app, beware of some of the known issues:
+PhotoMD has some limitations; Before using this app, beware of some of the known issues:
 
  - Can't erase all metadata from HEIC images
  - No video support
- - Can't edit RAW images
- - Erasing a metadata key with a INT value will not remove the tag, only zeros it
- - Can't edit arrays, like: "JFIFVersion", "ComponentsConfiguration", "ISOSpeedRatings", or "FlashPixVersion"
+ - Can't edit RAW images*
+ - Erasing metadata key with a INT value will not remove the tag, only zeros it*
+ - Can't edit arrays, like: "JFIFVersion", "ComponentsConfiguration", "ISOSpeedRatings", or "FlashPixVersion"*
  - Image will always be re-compressed when editing the metadata
+ - Sometimes tag keys with Serial Numbers cannot be added
+ - Sometimes tag keys with Lens Models cannot be added
 
-Despite of those issues (witch may be fixed in an upcoming update), PhotoMD is an okay alternative to "exiftool" (command-line) for people that like a GUI.
+*Expected to be fixed in an upcoming update.
 
-If you need help or request a suggestion, email: photomd.support@nym.hush.com, or open an issue on GitHub: https://github.com/WestleyR/PhotoMD-public.
+If you need help or have a suggestion, email: photomd.support@nym.hush.com, or open an issue on GitHub: https://github.com/WestleyR/PhotoMD-public.
 
 Latest news on PhotoMD: https://github.com/WestleyR/PhotoMD-public/blob/master/NEWS.md
+
+Changelog: https://github.com/WestleyR/PhotoMD-public/blob/master/CHANGELOG.md
 
 This description may be outdated, please see: https://github.com/WestleyR/PhotoMD-public/blob/master/release_descriptions/RELEASE_DESCRIPTION_V1.1.0.txt for the latest description.
 
