@@ -9,10 +9,7 @@ Next update (V1.1.0) is planed from June to July 2020.
 ## Example screenshot
 
 ![Alt text](/PhotoMD-ScreenShot.png?raw=true "ExifViewer Screenshot")
-
 _Version V1.1.0.b2 shown._
-
-See: https://github.com/WestleyR/PhotoMD-public/blob/master/PhotoMD-demo.mov for demo video.
 
 ## Privacy Policy
 
