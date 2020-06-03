@@ -27,6 +27,9 @@ subject to change.
  - Fixed type: `Select a image` -> `Select an image`
  - Main window can no longer be resized
 
+### REMOVED
+ - Removed "PhotoMD help" from help menu (will add a help window soon)
+
 ## V1.0.0 - May 27, 2020
 
 Init release.

@@ -17,7 +17,7 @@ Supported image formats:
 
 PhotoMD has some limitations; before using this app, please note the following known issues:
 
- - Can't erase all metadata from HEIC images
+ - "Erase all data" button will not work on HEIC images
  - No video support
  - Can't edit RAW images**
  - Erasing metadata key with a INT value will not remove the tag, only zeros it**
