@@ -12,7 +12,7 @@ Supported image formats:
  - Other RAW or compressed images: read only
 
   Full support = read and write to metadata.
-* Lacks the ability to remove all metadata.
+* Lacks the ability to "Delete all data".
 
 
 PhotoMD has some limitations; before using this app, please note the following known issues:
@@ -25,6 +25,7 @@ PhotoMD has some limitations; before using this app, please note the following k
  - Image will always be recompressed when editing the metadata
  - Sometimes tag keys with Serial Numbers cannot be added
  - Sometimes tag keys with Lens Models cannot be added
+ - Not all metadata is editable, not all tags/data can be edited
 
 ** Expected to be fixed in an upcoming update.
 
