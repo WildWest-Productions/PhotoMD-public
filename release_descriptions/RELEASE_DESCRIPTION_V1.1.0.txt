@@ -26,6 +26,7 @@ PhotoMD has some limitations; before using this app, please note the following k
  - Sometimes tag keys with Serial Numbers cannot be added
  - Sometimes tag keys with Lens Models cannot be added
  - Not all metadata is editable, not all tags/data can be edited
+ - Sometimes an image tag (metadata key) will fail to add without warning (mostly applies to HEIC images)
 
 ** Expected to be fixed in an upcoming update.
 
