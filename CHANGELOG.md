@@ -5,7 +5,7 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
-## V1.1.0.b4 - Jun 2, 2020
+## V1.1.0 - Jun 4, 2020
 
 ### ADDED
  - Available to edit image metadata
