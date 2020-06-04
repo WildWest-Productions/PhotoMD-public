@@ -1,6 +1,6 @@
 # News for PhotoMD
 
-## 2020-06-04 - Next release planed release (V1.1.1)
+## 2020-06-04 - Next planed release (V1.1.1)
 
 Next release V1.1.1 will be available by end of Jun.
 
