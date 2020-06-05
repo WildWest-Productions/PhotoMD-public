@@ -5,6 +5,17 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
+
+## V1.2.0.a1 - Jun 4 2020
+
+### ADDED
+ - Support for undo and redo
+ - Added "Revert all changes" menu item
+
+### CHANGED
+ - Select image will no longer be edited as data changes (will need to "Save..." before selected image gets updated
+
+
 ## V1.1.0 - Jun 4, 2020
 
 ### ADDED
