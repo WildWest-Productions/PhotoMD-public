@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V1.2.0.a7 - Jun 11 2020
+## V1.2.0.b2 - Jun 11 2020
 
 ### ADDED
  - Support for undo and redo
