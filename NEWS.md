@@ -3,6 +3,11 @@
 _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
+
+## 2020-06-11 - V1.2.0 is prepairing for testing
+
+V1.2.0 is getting ready for testing.
+
 ## 2020-06-08 - V1.2.0 will support undo/redo
 
 Next release (V1.2.0) will support undo, and redo when editing image metadata.

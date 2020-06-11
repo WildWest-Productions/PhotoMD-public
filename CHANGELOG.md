@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V1.2.0.a3 - Jun 10 2020
+## V1.2.0.a4 - Jun 11 2020
 
 ### ADDED
  - Support for undo and redo
@@ -15,7 +15,8 @@ subject to change.
  - Added support for "Save as..."
 
 ### CHANGED
- - Select image will no longer be edited as data changes (will need to "Save..." before selected image gets updated
+ - Select image will no longer be edited as data changes (will need to "Save..." before selected image gets updated)
+ - If image is edited, closing the app will automaticly save the image
 
 
 ## V1.1.0 - Jun 4, 2020
