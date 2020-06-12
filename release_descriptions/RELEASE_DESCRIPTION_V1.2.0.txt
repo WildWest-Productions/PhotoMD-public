@@ -28,6 +28,7 @@ PhotoMD has some limitations; before using this app, please note the following k
  - Not all metadata is editable, not all tags/data can be edited
  - Sometimes an image tag (metadata key) will fail to add without warning (mostly applies to HEIC images)
  - Can only edit/view one image at a time
+ - Undo and redo sometimes will not catch all changes
 
 ** Expected to be fixed in an upcoming update.
 

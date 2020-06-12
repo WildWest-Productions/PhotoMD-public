@@ -21,6 +21,7 @@ subject to change.
  - Select image will no longer be edited as data changes (will need to "Save..." before selected image gets updated)
  - If image is edited, closing the app will automaticly save the image
  - Updated app icon to use a bigger handle
+ - Print the image res in X Y order
 
 
 ## V1.1.0 - Jun 4, 2020
