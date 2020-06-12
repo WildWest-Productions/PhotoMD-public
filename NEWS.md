@@ -4,6 +4,10 @@ _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
 
+## 2020-06-12 - V1.2.0 is prepairing for review
+
+V1.2.0 is done with testing, and is not in prossess for review.
+
 ## 2020-06-11 - V1.2.0 is prepairing for testing
 
 V1.2.0 is getting ready for testing.
