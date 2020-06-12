@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V1.2.0.b2 - Jun 11 2020
+## V1.2.0 - Jun 11 2020
 
 ### ADDED
  - Support for undo and redo
@@ -15,10 +15,12 @@ subject to change.
  - Added new key "ImageDescription"
  - Added support for "Save as..."
  - Added warning if trying to open more then one file
+ - Added new bug logo to some alert messages
 
 ### CHANGED
  - Select image will no longer be edited as data changes (will need to "Save..." before selected image gets updated)
  - If image is edited, closing the app will automaticly save the image
+ - Updated app icon to use a bigger handle
 
 
 ## V1.1.0 - Jun 4, 2020
