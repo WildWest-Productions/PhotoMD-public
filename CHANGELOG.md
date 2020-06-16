@@ -6,7 +6,13 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V1.2.0 - Jun 11 2020
+## V1.3.0.a1 - Jun 15, 2020
+
+### ADDED
+ - Added slider to change the compression level of the image
+
+
+## V1.2.0 - Jun 11, 2020
 
 ### ADDED
  - Support for undo and redo

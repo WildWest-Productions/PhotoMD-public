@@ -4,6 +4,14 @@ _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
 
+## 2020-06-15 - V1.3.0 is in development
+
+V1.3.0 will include the ability to change the compression level of the image.
+
+## 2020-06-15 - A free version of PhotoMD is comming
+
+A free version of PhotoMD is comming in July 2020 (expected). The free version can only view metadata, not edit it.
+
 ## 2020-06-12 - V1.2.0 is prepairing for review
 
 V1.2.0 is done with testing, and is not in prossess for review.
