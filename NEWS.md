@@ -3,6 +3,9 @@
 _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
+## 2020-06-21 - PhotoMD-lite is available on the app store
+
+the "lite" version of PhotoMD is available on the macOS App Store.
 
 ## 2020-06-15 - V1.3.0 is in development
 
@@ -14,7 +17,7 @@ A free version of PhotoMD is comming in July 2020 (expected). The free version c
 
 ## 2020-06-12 - V1.2.0 is prepairing for review
 
-V1.2.0 is done with testing, and is not in prossess for review.
+V1.2.0 is done with testing, and is now in prossess for review.
 
 ## 2020-06-11 - V1.2.0 is prepairing for testing
 
