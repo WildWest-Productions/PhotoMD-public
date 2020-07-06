@@ -6,10 +6,24 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V1.3.0.a1 - Jun 15, 2020
+## V2.0.0.a11 - July 6, 2020
 
 ### ADDED
- - Added slider to change the compression level of the image
+ - Added support for dragNdrop (only for input images)
+ - Added support for directories (can select whole directories with images)
+ - Added tableView for related images, with thumbnails and names
+ - Added support for zooming/magnifying an image
+ - Added support for editing the image name
+ - Added PhotoMD help PDF (can be accessed with Main Menu->Help->PhotoMD Help
+
+### CHANGED
+ - New user inerface
+
+### REMOVED
+ - Removed support for undo/redo (may add this later)
+ - Removed "Delete all metadata" button on main window (will be added in the menu)
+ - Removed "Image resolution" label (may be added back later)
+ - Removed "Save as..." menu item (may be added back later)
 
 
 ## V1.2.0 - Jun 11, 2020

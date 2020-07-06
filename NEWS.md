@@ -3,13 +3,17 @@
 _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
+## 2020-07-06 - V2.0.0 is in development
+
+V2.0.0 is currently in development. PhotoMD is getting a new user inerface!
+
 ## 2020-06-21 - PhotoMD-lite is available on the app store
 
 the "lite" version of PhotoMD is available on the macOS App Store.
 
-## 2020-06-15 - V1.3.0 is in development
+## 2020-06-15 - ~V1.3.0 is in development~
 
-V1.3.0 will include the ability to change the compression level of the image.
+~V1.3.0 will include the ability to change the compression level of the image.~ Going straght for V2.0.0!
 
 ## 2020-06-15 - A free version of PhotoMD is comming
 
