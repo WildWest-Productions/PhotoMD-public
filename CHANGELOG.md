@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.0.0.a11 - July 6, 2020
+## V2.0.0.b8 - July 9, 2020
 
 ### ADDED
  - Added support for dragNdrop (only for input images)
@@ -15,14 +15,14 @@ subject to change.
  - Added support for zooming/magnifying an image
  - Added support for editing the image name
  - Added PhotoMD help PDF (can be accessed with Main Menu->Help->PhotoMD Help
+ - Added ability to "star" an image
+ - Added ability to "delete all exect stared" images (images deleted this way are moved to the users trash bin)
 
 ### CHANGED
  - New user inerface
 
 ### REMOVED
  - Removed support for undo/redo (may add this later)
- - Removed "Delete all metadata" button on main window (will be added in the menu)
- - Removed "Image resolution" label (may be added back later)
  - Removed "Save as..." menu item (may be added back later)
 
 

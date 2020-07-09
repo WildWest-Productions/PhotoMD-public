@@ -3,6 +3,10 @@
 _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
+## 2020-07-09 - V2.0.0 is getting ready for review
+
+V2.0.0 is getting ready for review.
+
 ## 2020-07-06 - V2.0.0 is in development
 
 V2.0.0 is currently in development. PhotoMD is getting a new user inerface!
