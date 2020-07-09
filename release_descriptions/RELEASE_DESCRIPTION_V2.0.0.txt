@@ -17,7 +17,7 @@ Supported image formats:
 
 ## Easily sort your images
 
-PhotoMD V2.0.0 new interface is designed for easily sorting, and deleting images ₂.
+PhotoMD V2.0.0 new interface is designed for easily sorting images₂.
 
 
 Disclamers:
