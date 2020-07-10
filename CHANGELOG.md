@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.0.0.b8 - July 9, 2020
+## V2.0.0 - July 10, 2020
 
 ### ADDED
  - Added support for dragNdrop (only for input images)

@@ -3,6 +3,10 @@
 _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
+## 2020-07-10 - V2.0.0 is on the app store
+
+PhotoMD V2.0.0 is now available on the app store.
+
 ## 2020-07-09 - V2.0.0 is getting ready for review
 
 V2.0.0 is getting ready for review.
