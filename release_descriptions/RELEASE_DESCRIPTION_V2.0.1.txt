@@ -57,5 +57,5 @@ For the changelog:
 https://github.com/WestleyR/PhotoMD-public/blob/master/CHANGELOG.md
 
 This description may be outdated. For the latest description, please see: 
-https://github.com/WestleyR/PhotoMD-public/blob/master/release_descriptions/RELEASE_DESCRIPTION_V2.0.0.txt 
+https://github.com/WestleyR/PhotoMD-public/blob/master/release_descriptions/RELEASE_DESCRIPTION_V2.0.1.txt
 
