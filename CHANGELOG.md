@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.0.1.a3 - July 10, 2020
+## V2.0.1.a4 - July 11, 2020
 
 ### ADDED
  - Added file check and alert for opening a file thats not an image
@@ -14,14 +14,16 @@ subject to change.
 
 ### FIXED
  - Fixed crash when loading a folder, then deleting that folder while processing the image thumbnails
+ - Fixed crash when "Deleting all except stared" when loading bar is almost complete
 
 ### CHANGED
  - If selecting more then one image, switching next/previous image will cancel multi-select
- - Changed from using Preview to show help/third-party licenses PDF, to using custom window. Since a user could edit the PDFs through Preview
+ - Changed from using Preview to show help file, and third-party licenses PDF, to using custom window. Since a user could edit the PDFs through Preview
  - Updated screenshots in App Store
  - Updated PhotoMD help to explain how to delete all image metadata
  - Disable zoom when selecting more then one file
  - Reset zoom when selecting more the one file
+
 
 ## V2.0.0 - July 10, 2020
 
