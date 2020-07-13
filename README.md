@@ -1,6 +1,6 @@
 # PhotoMD-public
 
-The public repository for PhotoMD (for support only)
+The public repository for PhotoMD (for support only).
 
 Available on the [App Store for MacOS](https://apps.apple.com/us/app/photomd/id1515646480?mt=12).
 

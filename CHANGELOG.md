@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.0.1.a4 - July 11, 2020
+## V2.0.1 - July 12, 2020
 
 ### ADDED
  - Added file check and alert for opening a file thats not an image

@@ -3,6 +3,11 @@
 _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
+
+## 2020-07-12 - V2.0.1 is available on the app store
+
+V2.0.1 is now available on the App Store.
+
 ## 2020-07-10 - V2.0.1 is comming soon with bug fixes
 
 A couple of issues has been discovered with the latest version (V2.0.0). See the CHANGELOG for details.
