@@ -6,7 +6,7 @@ _**NOTES:**_
 
 ## 2020-07-15 - a bug has been discoverd
 
-There is a bug regarding the "zoom in" button. Update will be released ASAP. However, then can be fixed by saving the PhotoMD settings; goto Main menu -> PhotoMD Preferences -> Click "Save and exit".
+There is a bug regarding the "zoom in" button. Update will be released ASAP. However, thin can be fixed by saving the PhotoMD settings; goto Main menu -> PhotoMD Preferences -> Click "Save and exit".
 
 ## 2020-07-15 - V2.1.0 is released
 
