@@ -10,11 +10,13 @@ subject to change.
 ### SUMMARY
  - This update fixes the "Zoom in" issue
  - Minor updates to UI
+ - Fixed issue when "Open with PhotoMD" for an image
 
 ### FIXED
  - Fixed issue when zooming in, with a fresh app install
  - Fixed word-correction in alert
  - Fixed menu item: "Star image" when not allowed to star images
+ - Fixed issue when "Open with PhotoMD" for an image
 
 ## V2.1.0 - July 15, 2020
 
