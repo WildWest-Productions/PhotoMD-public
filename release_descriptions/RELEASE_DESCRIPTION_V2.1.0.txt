@@ -1,0 +1,61 @@
+## View and edit image EXIF and metadata
+
+PhotoMD allows you to view, and edit your image metadata, including EXIF, TIFF, IPTC, and more.
+
+Supported image formats:
+
+ - JPG/JPEG: Full support
+ - PNG: Full support
+ - TIFF: Full support
+ - HEIC: Mostly supported₁
+ - GIF: Read only
+ - NEF: Read only
+ - RW2: Read only
+ - Other RAW or compressed images: read only
+
+ Full support = read and write to metadata.
+
+## Easily sort your images
+
+PhotoMS's interface is designed to help you keep your images sorted, only keeping the best ones, and deleting the "less good" photos₂.
+
+
+Disclamers:
+
+PhotoMD has some limitations; before using this app, please note the following known issues:
+
+ - "Erase all data" button will not work on HEIC images
+ - Can't edit RAW images₃
+ - Erasing metadata key with a INT value will not remove the tag, only zeros it₃
+ - Can't edit arrays, like: "JFIFVersion", "ComponentsConfiguration", "ISOSpeedRatings", or "FlashPixVersion"₃
+ - Image will always be recompressed when editing the metadata
+ - If editing an image thats less then 1kb, the image will likely gain in size
+ - Sometimes tag keys with Serial Numbers cannot be added
+ - Sometimes tag keys with Lens Models cannot be added
+ - Not all metadata is editable
+ - Sometimes an image tag (metadata key) will fail to add without warning (mostly applies to HEIC images)
+ - Removing all image data does not remove “ProfileName”₃
+
+Footnotes:
+
+ ₁. lacks the ability to "Delete all data".
+ ₂. photos deleted from PhotoMD are moved to your trash.
+ ₃. expected to be fixed in an upcoming update.
+
+
+More information:
+
+If you need help or have a suggestion, email: 
+photomd.support@nym.hush.com
+or open an issue on GitHub: 
+https://github.com/WestleyR/PhotoMD-public
+
+For the latest news on PhotoMD: 
+https://github.com/WestleyR/PhotoMD-public/blob/master/NEWS.md
+
+For the changelog: 
+https://github.com/WestleyR/PhotoMD-public/blob/master/CHANGELOG.md
+
+This description may be outdated. For the latest description, please see: 
+https://github.com/WestleyR/PhotoMD-public/blob/master/release_descriptions/RELEASE_DESCRIPTION_V2.1.0.txt
+
