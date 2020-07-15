@@ -4,6 +4,10 @@ _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
 
+## 2020-07-14 - several bugs have been discovered in V2.0.1
+
+2 recent bugs have been discovered in V2.0.1. One of the bugs effects the UI, and a fix will be released ASAP.
+
 ## 2020-07-12 - V2.0.1 is available on the app store
 
 V2.0.1 is now available on the App Store.

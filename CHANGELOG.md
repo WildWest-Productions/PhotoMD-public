@@ -5,8 +5,29 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
+## V2.1.0.a4 - July 14, 2020
+
+### SUMMARY
+ - This update fixes several bugs, which effect the UI.
+ - Added PhotoMD Preferences in menu.
+
+### ADDED
+ - Added button to cancel the "loading thumbnail..." prossess
+ - Added PhotoMD Preferences
+ - Added ability to "load low quality images over 20Mb"
+
+### FIXED
+ - Fixed issue when staring a large amount of images, when deleteing all but stared
+ - Fixed alert when opening a lot of non-images
+ - Fixed some typos in alerts
 
 ## V2.0.1 - July 12, 2020
+
+### SUMMARY
+ - This update fixes several bugs and crashes, and improves reliability. Specifically when removing an image during, or after processing the thumbnails.
+ - Now uses a custom windows to display the help file PDFs (since Preview could edit the PDFs in the app).
+ - Detect if the selected file(s) is an image before loading it, and don't load non-images.
+ - Improved PhotoMD help PDF, and updated screenshots in App Store.
 
 ### ADDED
  - Added file check and alert for opening a file thats not an image
