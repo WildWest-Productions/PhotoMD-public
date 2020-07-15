@@ -5,6 +5,17 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
+## V2.1.1.a1 - July 15, 2020
+
+### SUMMARY
+ - This update fixes the "Zoom in" issue
+ - Minor updates to UI
+
+### FIXED
+ - Fixed issue when zooming in, with a fresh app install
+ - Fixed word-correction in alert
+ - Fixed menu item: "Star image" when not allowed to star images
+
 ## V2.1.0 - July 15, 2020
 
 ### SUMMARY
