@@ -5,7 +5,7 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
-## V2.1.0.a4 - July 14, 2020
+## V2.1.0 - July 15, 2020
 
 ### SUMMARY
  - This update fixes several bugs, which effect the UI.
