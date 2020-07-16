@@ -3,6 +3,9 @@
 _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
+## 2020-07-16 - V2.1.1 has been released
+
+Please update to the latest version of PhotoMD.
 
 ## 2020-07-15 - a bug has been discoverd
 

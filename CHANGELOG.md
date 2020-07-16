@@ -5,7 +5,7 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
-## V2.1.1.a1 - July 15, 2020
+## V2.1.1 - July 16, 2020
 
 ### SUMMARY
  - This update fixes the "Zoom in" issue
