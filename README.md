@@ -4,6 +4,9 @@ The public repository for PhotoMD (for support only).
 
 Available on the [App Store for MacOS](https://apps.apple.com/us/app/photomd/id1515646480?mt=12).
 
+For support, suggestions, and help; please open an issue in this repository.
+Or email photomd.support@nym.hush.com.
+
 See the [NEWS.md](./NEWS.md) for next planed update.
 
 ## Example screenshot
