@@ -5,6 +5,21 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
+## V2.2.0.a5 - July 21, 2020
+
+### SUMMARY
+ - Cleaned and sorted menu items
+ - Plays animated images
+ - Better performance with large/raw images
+
+### ADDED
+ - Added "Star all images" in "Image" menu
+ - Added "Unstar all images" in "Image" menu
+
+### CHANGED
+ - Animated images (GIFs) will preview as animated (instead of static images)
+
+
 ## V2.1.1 - July 16, 2020
 
 ### SUMMARY
