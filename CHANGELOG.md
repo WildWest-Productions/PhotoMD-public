@@ -5,12 +5,13 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
-## V2.2.0.a5 - July 21, 2020
+## V2.2.0.a6 - July 22, 2020
 
 ### SUMMARY
  - Cleaned and sorted menu items
  - Plays animated images
  - Better performance with large/raw images
+ - Improved image selection in image table
 
 ### ADDED
  - Added "Star all images" in "Image" menu
@@ -19,6 +20,8 @@ subject to change.
 ### CHANGED
  - Animated images (GIFs) will preview as animated (instead of static images)
 
+### FIXED
+ - Fixed issue when selecting more then one image (did not highlight the rows)
 
 ## V2.1.1 - July 16, 2020
 
