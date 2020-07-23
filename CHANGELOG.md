@@ -5,7 +5,7 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
-## V2.2.0.a6 - July 22, 2020
+## V2.2.0.a7 - July 23, 2020
 
 ### SUMMARY
  - Cleaned and sorted menu items
@@ -16,6 +16,7 @@ subject to change.
 ### ADDED
  - Added "Star all images" in "Image" menu
  - Added "Unstar all images" in "Image" menu
+ - Added option in Preferences to "Show image thumbnail while loading image"
 
 ### CHANGED
  - Animated images (GIFs) will preview as animated (instead of static images)
