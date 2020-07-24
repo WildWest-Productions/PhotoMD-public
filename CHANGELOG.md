@@ -5,7 +5,7 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
-## V2.2.0.a9 - July 23, 2020
+## V2.2.0 - July 24, 2020
 
 ### SUMMARY
  - Cleaned and sorted menu items
