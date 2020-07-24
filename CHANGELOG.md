@@ -5,7 +5,7 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
-## V2.2.0.a7 - July 23, 2020
+## V2.2.0.a9 - July 23, 2020
 
 ### SUMMARY
  - Cleaned and sorted menu items
@@ -17,12 +17,14 @@ subject to change.
  - Added "Star all images" in "Image" menu
  - Added "Unstar all images" in "Image" menu
  - Added option in Preferences to "Show image thumbnail while loading image"
+ - Added "Do not show me this message again" to delete all metadata popup
 
 ### CHANGED
  - Animated images (GIFs) will preview as animated (instead of static images)
 
 ### FIXED
  - Fixed issue when selecting more then one image (did not highlight the rows)
+ - Fixed error alert when pushing "Stop" to delete all data popup
 
 ## V2.1.1 - July 16, 2020
 
