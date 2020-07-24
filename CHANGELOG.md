@@ -11,13 +11,16 @@ subject to change.
  - Cleaned and sorted menu items
  - Plays animated images
  - Better performance with large/raw images
- - Improved image selection in image table
+ - Improved multi-image selection in image table
+ - Improved, and added settings to Preferences
 
 ### ADDED
  - Added "Star all images" in "Image" menu
  - Added "Unstar all images" in "Image" menu
  - Added option in Preferences to "Show image thumbnail while loading image"
  - Added "Do not show me this message again" to delete all metadata popup
+ - Added settings option to "Load low quality HEIC images first" in Preferences
+ - Added option to "Show image thumbnail while loading image" in Preferences
 
 ### CHANGED
  - Animated images (GIFs) will preview as animated (instead of static images)
