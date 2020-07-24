@@ -24,10 +24,13 @@ subject to change.
 
 ### CHANGED
  - Animated images (GIFs) will preview as animated (instead of static images)
+ - Changed menu item: PhotoMD Help -> PhotoMD Manual
 
 ### FIXED
  - Fixed issue when selecting more then one image (did not highlight the rows)
  - Fixed error alert when pushing "Stop" to delete all data popup
+ - Fixed GitHub links to point to: https://west-technology/PhotoMD-public
+ - Wont change the aspect ratio of the image thumbnail
 
 ## V2.1.1 - July 16, 2020
 
