@@ -5,6 +5,18 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
+
+## V2.3.0.a2 - August 4, 2020
+
+### ADDED
+ - Added function to Menu -> File -> Open recent
+ - Added menu option (Menu -> File -> Recompress all images) to recompress all images
+ - Added function to Menu -> File -> Open
+ - Added ability to edit image metadata without recompressing the image
+
+### FIXED
+ - Better handling when a metadata row is clicked/image changed
+
 ## V2.2.0 - July 24, 2020
 
 ### SUMMARY
