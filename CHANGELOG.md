@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.3.0.a5 - August 11, 2020
+## V2.3.0.b1 - August 12, 2020
 
 ### ADDED
  - Added function to Menu -> File -> Open recent

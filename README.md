@@ -13,7 +13,7 @@ for next planed update.
 
 ## Example screenshot
 
-![Alt text](/PhotoMD-ScreenShot.png?raw=true "ExifViewer Screenshot")
+![Alt text](/PhotoMD-ScreenShot.png?raw=true "PhotoMD Screenshot")
 
 ## Privacy Policy (legacy: see [PRIVACY_POLICY.md](./PRIVACY_POLICY.md))
 
