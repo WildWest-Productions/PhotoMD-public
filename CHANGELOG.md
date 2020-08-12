@@ -20,6 +20,9 @@ subject to change.
  - Better handling when a metadata row is clicked/image changed
  - Fixed IsoSpeed -> ISOSpeed in combo-box
 
+### CHANGED
+ - When opening image files, thumbnails will now be loaded in backround
+
 ## V2.2.0 - July 24, 2020
 
 ### SUMMARY
