@@ -6,19 +6,26 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.3.0.b1 - August 12, 2020
+## V2.3.0.b2 - August 13, 2020
+
+### SUMMARY
+ - Better interface throught Menu items
+ - Ability to edit _some_ metadata without recompression the image (only JPG)
+ - Added support for more RAW image formats
+ - Improvments to performance, and other bug fixes
 
 ### ADDED
  - Added function to Menu -> File -> Open recent
  - Added menu option (Menu -> File -> Recompress all images) to recompress all images to a specifyed compression
  - Added function to Menu -> File -> Open
- - Added ability to edit some image metadata without recompressing the image (only some keys are supported)
+ - Added ability to edit some image metadata without recompressing the JPG image (only some keys are supported)
  - Added alert if user closes window while sorting images (can be suppressed)
  - Added ARW, and DNG as a image format
 
 ### FIXED
  - Better handling when a metadata row is clicked/image changed
  - Fixed IsoSpeed -> ISOSpeed in combo-box
+ - Better image data combo-box handling
 
 ### CHANGED
  - When opening image files, thumbnails will now be loaded in backround
