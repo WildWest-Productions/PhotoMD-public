@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.3.0.b2 - August 13, 2020
+## V2.3.0 - August 13, 2020
 
 ### SUMMARY
  - Better interface throught Menu items
