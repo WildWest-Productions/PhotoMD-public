@@ -16,6 +16,9 @@ subject to change.
  - Fixed constraints for Preferences window
  - Fixed issues in User interface in PhotoMD manual
 
+### CHANGED
+ - New opening image
+
 
 ## V2.3.0 - August 13, 2020
 
