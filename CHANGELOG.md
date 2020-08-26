@@ -6,6 +6,17 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
+## V2.4.0.a3 Aug 25, 2020
+
+### ADDED
+ - Added "Reset user defaults" in preferences
+ - Added alert before recompression all images
+
+### FIXED
+ - Fixed constraints for Preferences window
+ - Fixed issues in User interface in PhotoMD manual
+
+
 ## V2.3.0 - August 13, 2020
 
 ### SUMMARY
@@ -29,6 +40,7 @@ subject to change.
 
 ### CHANGED
  - When opening image files, thumbnails will now be loaded in backround
+
 
 ## V2.2.0 - July 24, 2020
 
@@ -57,6 +69,7 @@ subject to change.
  - Fixed GitHub links to point to: https://github.com/west-technology/PhotoMD-public
  - Wont change the aspect ratio of the image thumbnail
 
+
 ## V2.1.1 - July 16, 2020
 
 ### SUMMARY
@@ -69,6 +82,7 @@ subject to change.
  - Fixed word-correction in alert
  - Fixed menu item: "Star image" when not allowed to star images
  - Fixed issue when "Open with PhotoMD" for an image
+
 
 ## V2.1.0 - July 15, 2020
 
@@ -85,6 +99,7 @@ subject to change.
  - Fixed issue when staring a large amount of images, when deleteing all but stared
  - Fixed alert when opening a lot of non-images
  - Fixed some typos in alerts
+
 
 ## V2.0.1 - July 12, 2020
 
@@ -173,6 +188,7 @@ subject to change.
 
 ### REMOVED
  - Removed "PhotoMD help" from help menu (will add a help window soon)
+
 
 ## V1.0.0 - May 27, 2020
 
