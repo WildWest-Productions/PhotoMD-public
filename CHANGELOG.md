@@ -6,9 +6,15 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.4.0.a8 Aug 26, 2020
+## V2.4.0.a8 Aug 27, 2020
+
+### SUMMARY
+ - Support for batch editing
+ - New opening image and multi-selected image
+ - Updated Preferences
 
 ### ADDED
+ - Added support for batch metadata editing
  - Added "Reset user defaults" in preferences
  - Added alert before recompression all images
  - Added CameraOwnerName to editable data
@@ -19,6 +25,7 @@ subject to change.
 
 ### CHANGED
  - New opening image
+ - Multi-selected images are now shown as overlayed images
 
 
 ## V2.3.0 - August 13, 2020
