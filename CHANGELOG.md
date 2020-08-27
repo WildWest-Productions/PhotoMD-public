@@ -6,11 +6,12 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.4.0.a3 Aug 25, 2020
+## V2.4.0.a8 Aug 26, 2020
 
 ### ADDED
  - Added "Reset user defaults" in preferences
  - Added alert before recompression all images
+ - Added CameraOwnerName to editable data
 
 ### FIXED
  - Fixed constraints for Preferences window
