@@ -1,8 +1,14 @@
 # News for PhotoMD
 
+**This NEWS file may not be getting updates in the future. Please email
+photomd.support@nym.hush.com for any questions.**
+
 _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
+## 2020-08-30 - V2.4.0 is on the App Store
+
+Please see the CHANGELOG for details.
 
 ## 2020-08-12 - V2.3.0 is on the App Store
 

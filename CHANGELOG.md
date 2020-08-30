@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.4.0.a8 Aug 27, 2020
+## V2.4.0 Aug 27, 2020
 
 ### SUMMARY
  - Support for batch editing
