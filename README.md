@@ -1,4 +1,4 @@
-# PhotoMD-public
+# PhotoMD
 
 The public repository for PhotoMD (for support only).
 
