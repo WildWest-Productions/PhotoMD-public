@@ -6,6 +6,22 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
+## V2.5.0.a6 Sep 4, 2020
+
+### ADDED
+ - Added support for expanding image previewer
+ - Added button to reveal image(s) in Finder
+ - Added support for video playback
+ - Added ability to remove images from list
+ - Added Tool Tips to some buttons
+
+### FIXED
+ - Fixed issue when trying to open a non-standard image format
+ - Fixed issue when selecting multiple images, then selecting one and staring it
+
+### CHANGED
+ - When selecting multiple images, the image-name label shows how many are selected
+
 ## V2.4.0 Aug 27, 2020
 
 ### SUMMARY
