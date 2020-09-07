@@ -11,7 +11,7 @@ subject to change.
 ### ADDED
  - Added support for expanding image previewer
  - Added button to reveal image(s) in Finder
- - Added support for video playback
+ - Added basic support for video playback
  - Added ability to remove images from list
  - Added Tool Tips to some buttons
  - Added Report a bug/suggestion in menu (will link to web page)
