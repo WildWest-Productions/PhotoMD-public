@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.5.0.a6 Sep 4, 2020
+## V2.5.0.a9 Sep 6, 2020
 
 ### ADDED
  - Added support for expanding image previewer
@@ -14,6 +14,7 @@ subject to change.
  - Added support for video playback
  - Added ability to remove images from list
  - Added Tool Tips to some buttons
+ - Added Report a bug/suggestion in menu (will link to web page)
 
 ### FIXED
  - Fixed issue when trying to open a non-standard image format
@@ -21,6 +22,7 @@ subject to change.
 
 ### CHANGED
  - When selecting multiple images, the image-name label shows how many are selected
+ - Better, and improved About window
 
 ## V2.4.0 Aug 27, 2020
 
