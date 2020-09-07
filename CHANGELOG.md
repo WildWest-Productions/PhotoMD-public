@@ -6,7 +6,12 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.5.0.a9 Sep 6, 2020
+## V2.?.?.a1 Sep 7, 2020 (next release)
+
+### CHANGED
+ - About window will always be opened right in the middle of the main window
+
+## V2.5.0 Sep 7, 2020
 
 ### ADDED
  - Added support for expanding image previewer

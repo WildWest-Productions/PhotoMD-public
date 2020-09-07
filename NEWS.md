@@ -6,6 +6,9 @@ photomd.support@nym.hush.com for any questions.**
 _**NOTES:**_
  1. The NEWS is subject to change without notice.
 
+
+## 2020-09-07 - V2.5.0 is on the App Store
+
 ## 2020-08-30 - V2.4.0 is on the App Store
 
 Please see the CHANGELOG for details.
