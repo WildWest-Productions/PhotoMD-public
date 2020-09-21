@@ -6,10 +6,18 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.?.?.a1 Sep 7, 2020 (next release)
+## V2.6.0.a8 Sep 20, 2020
 
 ### CHANGED
  - About window will always be opened right in the middle of the main window
+ - Improved Preferences window
+
+### ADDED
+ - Added support for BMP image formats
+ - Added support for exporting images to other formats
+
+### FIXED
+ - Fixed image name label autofocus when expanding/un-expanding the view
 
 ## V2.5.0 Sep 7, 2020
 
