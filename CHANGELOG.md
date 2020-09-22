@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.6.0.a8 Sep 20, 2020
+## V2.6.0 Sep 21, 2020
 
 ### CHANGED
  - About window will always be opened right in the middle of the main window
