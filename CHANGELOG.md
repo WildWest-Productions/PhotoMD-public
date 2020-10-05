@@ -6,6 +6,13 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
+## V2.7.0.a4 Oct 4, 2020
+
+### FIXED
+ - Fixed issue when exporting a raw image
+ - Better debug output when exporting images
+ - After deleting a image from the Image Table, show the image above it
+
 ## V2.6.0 Sep 21, 2020
 
 ### CHANGED
