@@ -13,12 +13,20 @@ subject to change.
  - Added option to animate zoom
  - Added option to hide scrollbars for image preview (default)
  - Added function to export selected images
+ - Added support to change the preview background color in Preferences
+ - Added debug output window when exporting images
+ - Added custom images to Preferences window
 
 ### FIXED
  - Fixed issue when exporting a raw image
- - Better debug output when exporting images
  - After deleting a image from the Image Table, show the image above it
  - When opening an image that already exists, select and hightlight it
+ - Resets the image zoom after deleting all images
+ - Fixed expand button image to change when pressed
+
+### CHANGED
+ - Changed menu item: Image -> Images
+ - Only change the About window position when not visible
 
 ## V2.6.0 Sep 21, 2020
 
