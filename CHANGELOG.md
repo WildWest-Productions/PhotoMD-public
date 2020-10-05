@@ -6,12 +6,19 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.7.0.a4 Oct 4, 2020
+## V2.7.0.a5 Oct 5, 2020
+
+### ADDED
+ - Support for dragging mouse to scroll image when zoomed
+ - Added option to animate zoom
+ - Added option to hide scrollbars for image preview (default)
+ - Added function to export selected images
 
 ### FIXED
  - Fixed issue when exporting a raw image
  - Better debug output when exporting images
  - After deleting a image from the Image Table, show the image above it
+ - When opening an image that already exists, select and hightlight it
 
 ## V2.6.0 Sep 21, 2020
 
