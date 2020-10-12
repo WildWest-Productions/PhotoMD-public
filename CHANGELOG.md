@@ -6,7 +6,7 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
-## V2.7.0.a5 Oct 5, 2020
+## V2.7.0 Oct 5, 2020
 
 ### ADDED
  - Support for dragging mouse to scroll image when zoomed
