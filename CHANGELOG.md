@@ -6,6 +6,11 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
+## V2.7.1 Nov 1, 2020
+
+### REMOVED
+ - Removed support for opening video files (this was causing issues since PhotoMD would be the default video player)
+
 ## V2.7.0 Oct 5, 2020
 
 ### ADDED
