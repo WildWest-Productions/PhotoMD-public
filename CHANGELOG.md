@@ -6,6 +6,15 @@ subject to change.
  2. Pre-release versions are not available on the App Store.
 
 
+## V2.8.0.a1 Dec 22, 2020
+
+### ADDED
+ - Support for copy-paste of image data
+
+### FIXED
+ - Couple issues which may have caused crashing
+
+
 ## V2.7.1 Nov 1, 2020
 
 ### REMOVED
