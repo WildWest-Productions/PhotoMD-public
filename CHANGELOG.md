@@ -5,8 +5,14 @@ _**NOTES:**_
 subject to change.
  2. Pre-release versions are not available on the App Store.
 
+## V2.8.1.a1 Jan 31, 2021
 
-## V2.8.0.a1 Dec 22, 2020
+### FIXED
+ - Fixed crash if loading an invalid video
+ - Other internal fixes
+
+
+## V2.8.0 Dec 22, 2020
 
 ### ADDED
  - Support for copy-paste of image data
